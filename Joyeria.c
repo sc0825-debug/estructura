@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 #define Rolex 15000
-#define Patek Philippe 20000
+#define  PhPatekilippe 20000
 #define Jacob 150000
 #define MontBlack 100000 
 #define Michael Kors 50000
@@ -25,10 +25,10 @@ int main(){
     printf("------ /| \n\n");
     
     printf("*-*-*-*-*-*-*-*-*-* Lista de Productos *-*-*-*-*-*-*-*-*-*\n");
-    printf("1. rolex 15000 --------------- $30\n");
-    printf("2. Azucar --------------- $25\n");
-    printf("3. Barritas --------------- $18\n");
-    printf("4. Coca 2.5L --------------- $30\n");
+    printf("1. rolex  --------------- $15000\n");
+    printf("2. PhPatekilippe--------------- $20000\n");
+    printf("3. jacob --------------- $150000\n");
+    printf("4. mont --------------- $30\n");
     printf("5. Gansito --------------- $20\n\n");
     
     printf("Ingrese su nombre: ");
