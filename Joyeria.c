@@ -266,10 +266,6 @@ int main(){
     printf("    |  '-'  |\n");
     printf("     ------\n");
     
-    // Regla Dulce: Si compra más de 3 productos diferentes, Don Ernesto les regala un dulce
-    if(producDif> 3){
-        printf("Por comprar más de 3 productos diferentes,\n");
-        printf("Tome un dulce de regalo. :)\n");
     }
     
     // Hora de Pagaaaar:)
